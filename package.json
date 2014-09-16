@@ -1,0 +1,44 @@
+{
+  "name": "fmbaucis",
+  "contributors": [
+    {
+      "name": "eguneys"
+    }
+  ],
+  "homepage": "https://github.com/wprl/baucis",
+  "version": "1.20.5",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wprl/baucis.git@0.20.5"
+  },
+  "bugs": {
+    "url": "https://github.com/wprl/baucis/issues/new",
+    "email": "william@kun.io"
+  },
+  "license": "MIT",
+  "description": "Build scalable REST APIs using the open source tools and standards you already know.",
+  "keywords": [
+    "REST",
+    "RESTful",
+    "API",
+    "express",
+    "mongoose",
+    "schema",
+    "schemata",
+    "mongo",
+    "rfc2616",
+    "web",
+    "http"
+  ],
+  "dependencies": {
+    "semver": "~2.2.1",
+    "deco": "~0.10.2",
+    "event-stream": "~3.1.1",
+    "baucis-json": "~0.1.1"
+  },
+  "peerDependencies": {
+    "mongoose": "~3.8.1",
+    "express": "~3.5.1"
+  }
+}
