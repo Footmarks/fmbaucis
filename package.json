@@ -38,7 +38,7 @@
     "baucis-json": "~0.1.1"
   },
   "peerDependencies": {
-    "mongoose": "~3.8.1",
+    "mongoose": "~4.1.9",
     "express": "~3.5.1"
   }
 }
