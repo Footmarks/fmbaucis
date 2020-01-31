@@ -32,7 +32,7 @@
     "http"
   ],
   "dependencies": {
-    "semver": "~2.2.1",
+    "semver": "^7.1.1",
     "deco": "~0.10.2",
     "event-stream": "~3.1.1",
     "baucis-json": "~0.1.1"
